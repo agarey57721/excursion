@@ -1,14 +1,35 @@
 html {
   font-family: Verdana;
   background-color: black;
-  color: white;
   text-align: center;
 }
 
 h1 {
   font-size: 50px;
+  color: white;
 }
 
-h2 {
-  
+img {
+  padding: 25px;
+}
+
+.download {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+.subheads {
+  font-size: 42px;
+  color: gray;
+}
+
+.description {
+  font-size: 21px;
+  color: gray;
+}
+
+.copy {
+  font-size: 18px;
+  text-align: right;
+  color: gray;
 }
